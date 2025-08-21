@@ -1,0 +1,7 @@
+Recompiling Android App
+
+In CMD shell
+npm run build
+.\node_modules\.bin\cap.cmd copy android
+.\node_modules\.bin\cap.cmd open android
+
